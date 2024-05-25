@@ -1,3 +1,12 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# utils
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+a modern javascript utility function library based on [You Don't Need](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+and [You Might Not Need](https://youmightnotneed.com/lodash/)
+
+Written with modern javascript and built to be tree shaken
+
+Zero `0` dependencies
+
+## Functions
+
+WIP
